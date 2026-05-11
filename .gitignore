@@ -1,0 +1,21 @@
+# --- Exclude specific folders inside behavioral cloning ---
+04_behavioral_cloning/.ipynb_checkpoints/
+04_behavioral_cloning/.virtual_documents/
+04_behavioral_cloning/best_models/
+04_behavioral_cloning/driving_data/
+
+# --- Specific Folders to Exclude ---
+02_logistic_regression/
+03_Keras/
+certificate/
+
+# --- Environment and Cache ---
+.venv/
+__pycache__/
+.ipynv_checkpoints/
+*.pyc
+
+# --- OS Specific Files ---
+.DS_store
+__MACOSX
+Thumbs.db
